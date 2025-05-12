@@ -308,6 +308,5 @@ LATER
 
 ## Sources
 
-* [Official Docs](https://docs.pipe.network/)
+* [Official Docs](https://docs.pipe.network/nodes/testnet)
 * [PipeQuest Blog](https://pipe.network/blog/announcing-pipequest)
-* [Original Guide](https://maouam.nodelab.my.id/pipe-network/testnet/)
