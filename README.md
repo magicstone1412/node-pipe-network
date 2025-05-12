@@ -4,6 +4,8 @@ This guide outlines the steps to set up a Point of Presence (PoP) node on the Pi
 
 > 💡 If you're using Ubuntu 22.04, follow [this guide](https://www.cyberciti.biz/faq/how-to-upgrade-from-ubuntu-22-04-lts-to-ubuntu-24-04-lts/) to upgrade to 24.04.
 
+![image](https://github.com/user-attachments/assets/8e2882fc-b11b-4611-89a6-8c07499188c7)
+
 ---
 
 ## Prerequisites
