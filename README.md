@@ -249,7 +249,6 @@ https://<your-vps-ip>/state
 ### 5. Participate in PipeQuest
 
 * **Monitor Rewards:** Rewards depend on data cached (1x to 3x multiplier).
-* **Dashboard:** Use community channels or Pipe dashboard (if available).
 * **Correct Wallet:** Ensure `solana_pubkey` is accurate in your config.
 
 > Stay active to earn **consistency bonuses** across seasons.
